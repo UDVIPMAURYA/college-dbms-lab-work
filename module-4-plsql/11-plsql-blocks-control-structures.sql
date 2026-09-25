@@ -16,7 +16,7 @@ Interview angle:
 ========================================================
 */
 
-SET SERVEROUTPUT ON;  -- enables DBMS_OUTPUT to actually print
+SET SERVEROUTPUT ON  -- enables DBMS_OUTPUT to actually print
 
 -- 1. Simplest possible block
 BEGIN
